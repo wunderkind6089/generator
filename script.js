@@ -11,7 +11,7 @@
  	+ color2.value 
  	+ ")";
  	css.textContent = body.style.background + ";";
- 	document.querySelector("h3").style.background = "white";
+ 	document.querySelector("h3").style.background = "white"; 
  }
 
  
